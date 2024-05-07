@@ -1,8 +1,7 @@
 # Assembly
 Práticas de Assembly na disciplina de Sistemas Embarcados
 
--> Marie.JS (print)
--> Como funciona a alocação de memória dinâmica para armazenar seu nome
+Marie.JS (print): Como funciona a alocação de memória dinâmica para armazenar seu nome
 
 ![naPratica](https://github.com/fdalvesco/Assembly/assets/101358513/9b470916-51ac-4886-9604-b30839d57a10)
 
@@ -63,7 +62,7 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
         NAME_D, HEX 0
         NAME_O, HEX 0
 
-# 2 - Explicando DOS, MASM e TASM em Assembly:
+# Explicando DOS, MASM e TASM em Assembly:
 
 # Programação em Assembly com DOS:
 O Disk Operating System, mais conhecido como DOS, é um dos sistemas operacionais iniciais que ganhou grande popularidade em computadores pessoais. Programar em assembly para DOS exige um entendimento de como o sistema operacional se comunica com o hardware do computador, incluindo a gestão de memória, arquivos e dispositivos de entrada/saída. Quando se programa em assembly para DOS, frequentemente utiliza-se um conjunto de interrupções do sistema para realizar pedidos específicos ao sistema operacional.
