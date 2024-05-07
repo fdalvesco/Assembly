@@ -1,8 +1,8 @@
 # Assembly
 Práticas de Assembly na disciplina de Sistemas Embarcados
 
-Marie.JS (print)
-Como funciona a alocação de memória dinâmica para armazenar seu nome
+-> Marie.JS (print)
+-> Como funciona a alocação de memória dinâmica para armazenar seu nome
 
 ![naPratica](https://github.com/fdalvesco/Assembly/assets/101358513/9b470916-51ac-4886-9604-b30839d57a10)
 
