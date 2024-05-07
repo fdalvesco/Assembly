@@ -63,6 +63,8 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
         NAME_D, HEX 0
         NAME_O, HEX 0
 
+# 2 - Explicando DOS, MASM e TASM em Assembly:
+
 DOS em Assembly:
 DOS, ou Disk Operating System, foi um dos primeiros sistemas operacionais amplamente usados em computadores pessoais. Escrever programas em assembly para DOS envolve compreender como esse sistema operacional interage com o hardware do computador, especialmente como ele gerencia a memória, os arquivos e os dispositivos de entrada/saída. Ao programar em assembly para DOS, você geralmente utiliza um conjunto de chamadas de interrupção, que são maneiras de solicitar ao sistema operacional que execute certas operações.
 
