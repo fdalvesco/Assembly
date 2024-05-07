@@ -65,14 +65,13 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
 
 # 2 - Explicando DOS, MASM e TASM em Assembly:
 
-DOS em Assembly:
+# DOS:
 DOS, ou Disk Operating System, foi um dos primeiros sistemas operacionais amplamente usados em computadores pessoais. Escrever programas em assembly para DOS envolve compreender como esse sistema operacional interage com o hardware do computador, especialmente como ele gerencia a memória, os arquivos e os dispositivos de entrada/saída. Ao programar em assembly para DOS, você geralmente utiliza um conjunto de chamadas de interrupção, que são maneiras de solicitar ao sistema operacional que execute certas operações.
 
-MASM em Assembly:
+# MASM:
 MASM, que significa Microsoft Macro Assembler, é um assembler desenvolvido pela Microsoft para a família de processadores Intel x86. Ele permite escrever programas em linguagem assembly, que é uma das formas mais próximas de programação diretamente no hardware do computador. MASM é uma ferramenta poderosa para programadores que querem explorar programação em assembly no ambiente Windows, oferecendo uma combinação de controle de baixo nível e ferramentas de desenvolvimento modernas.
 
-TASM em Assembly:
+# TASM:
 TASM, que significa Turbo Assembler, é um assembler desenvolvido pela Borland que se destaca por sua compatibilidade tanto com a sintaxe do Intel Assembly quanto com a sintaxe idealizada pela Microsoft (usada no MASM). Isso o torna bastante versátil para programadores que desejam trabalhar com diferentes estilos de programação em assembly. TASM é uma ferramenta poderosa e flexível para programação em assembly, valorizada por sua capacidade de alternar entre diferentes estilos de sintaxe e por sua integração em um ambiente de desenvolvimento produtivo.
-
 
 
