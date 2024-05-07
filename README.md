@@ -12,31 +12,31 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
 
 ; Código principal
 
-        Load    F       ; Carrega o valor ASCII de 'F'
-        Store   NAME_F  ; Armazena no espaço reservado NAME_F
+        Load    F       /Carrega o valor ASCII de 'F'
+        Store   NAME_F  /Armazena no espaço reservado NAME_F
 
-        Load    E       ; Carrega o valor ASCII de 'E'
-        Store   NAME_E  ; Armazena no espaço reservado NAME_E
+        Load    E       /Carrega o valor ASCII de 'E'
+        Store   NAME_E  /Armazena no espaço reservado NAME_E
 
-        Load    R       ; Carrega o valor ASCII de 'R'
-        Store   NAME_R  ; Armazena no espaço reservado NAME_R
+        Load    R       /Carrega o valor ASCII de 'R'
+        Store   NAME_R  /Armazena no espaço reservado NAME_R
 
-        Load    N       ; Carrega o valor ASCII de 'N'
-        Store   NAME_N  ; Armazena no espaço reservado NAME_N
+        Load    N       /Carrega o valor ASCII de 'N'
+        Store   NAME_N  /Armazena no espaço reservado NAME_N
 
-        Load    A       ; Carrega o valor ASCII de 'A'
-        Store   NAME_A  ; Armazena no espaço reservado NAME_A
+        Load    A       /Carrega o valor ASCII de 'A'
+        Store   NAME_A  /Armazena no espaço reservado NAME_A
 
-        Load    N2      ; Carrega o valor ASCII de 'N' novamente
-        Store   NAME_N2 ; Armazena no espaço reservado NAME_N2
+        Load    N2      /Carrega o valor ASCII de 'N' novamente
+        Store   NAME_N2 /Armazena no espaço reservado NAME_N2
 
-        Load    D       ; Carrega o valor ASCII de 'D'
-        Store   NAME_D  ; Armazena no espaço reservado NAME_D
+        Load    D       /Carrega o valor ASCII de 'D'
+        Store   NAME_D  /Armazena no espaço reservado NAME_D
 
-        Load    O       ; Carrega o valor ASCII de 'O'
-        Store   NAME_O  ; Armazena no espaço reservado NAME_O
+        Load    O       /Carrega o valor ASCII de 'O'
+        Store   NAME_O  /Armazena no espaço reservado NAME_O
 
-        Halt            ; Termina a execução do programa
+        Halt            /Termina a execução do programa
 
 ; Tabela ASCII para 'FERNANDO'
 
