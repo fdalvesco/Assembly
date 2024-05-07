@@ -4,13 +4,16 @@ Práticas de Assembly na disciplina de Sistemas Embarcados
 Marie.JS (print)
 Como funciona a alocação de memória dinâmica para armazenar seu nome
 
+![naPratica](https://github.com/fdalvesco/Assembly/assets/101358513/9b470916-51ac-4886-9604-b30839d57a10)
+
+
 Este programa Assembly, estruturado de maneira bastante simplista, carrega valores ASCII correspondentes a cada letra do nome "FERNANDO" e os armazena em locais específicos reservados na memória.
 
-; Organiza o programa para iniciar no endereço 000
+/ Organiza o programa para iniciar no endereço 000
 
         ORG 000
 
-; Código principal
+/ Código principal
 
         Load    F       /Carrega o valor ASCII de 'F'
         Store   NAME_F  /Armazena no espaço reservado NAME_F
@@ -38,7 +41,7 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
 
         Halt            /Termina a execução do programa
 
-; Tabela ASCII para 'FERNANDO'
+/ Tabela ASCII para 'FERNANDO'
 
         F,      HEX 46
         E,      HEX 45
@@ -49,7 +52,7 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
         D,      HEX 44
         O,      HEX 4F
 
-; Reservar o espaço para o nome 'FERNANDO'
+/ Reservar o espaço para o nome 'FERNANDO'
 
         NAME_F, HEX 0
         NAME_E, HEX 0
@@ -59,5 +62,7 @@ Este programa Assembly, estruturado de maneira bastante simplista, carrega valor
         NAME_N2, HEX 0
         NAME_D, HEX 0
         NAME_O, HEX 0
+
+
 
 
